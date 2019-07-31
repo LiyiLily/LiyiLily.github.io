@@ -1,0 +1,6 @@
+@inproceedings{sun2019learning,
+title = {Learning from Web Data using Adversarial Discriminative Neural Networks for Fine-Grained Classification},
+author = {Xiaoxiao Sun, Liyi Chen, Jufeng Yang},
+booktitle = {AAAI Conference on Artificial Intelligence},
+year = {2019}
+}

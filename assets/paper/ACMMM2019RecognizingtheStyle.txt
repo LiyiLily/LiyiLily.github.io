@@ -1,0 +1,6 @@
+@inproceedings{chen2019recognizing,
+title = {Recognizing the Style of Visual Arts via Adaptive Cross-layer Correlation},
+author = {Liyi Chen, Jufeng Yang},
+booktitle = {ACM International Conference on Multimedia},
+year = {2019}
+}

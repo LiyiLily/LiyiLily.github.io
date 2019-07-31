@@ -1,0 +1,6 @@
+@inproceedings{yang2018historical,
+title = {Historical context-based style classification of painting images via label distribution learning},
+author = {Yang, Jufeng and Chen, Liyi and Zhang, Le and Sun, Xiaoxiao and She, Dongyu and Lu, Shao-Ping and Cheng, Ming-Ming},
+booktitle = {ACM International Conference on Multimedia},
+year = {2018}
+}
